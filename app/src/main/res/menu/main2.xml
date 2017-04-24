@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+            <item
+                android:id="@+id/toDay"
+                android:title="Сегодня" />
+            <item
+                android:id="@+id/d1"
+                android:title="Пн" />
+            <item
+                android:id="@+id/d2"
+                android:title="Вт" />
+            <item
+                android:id="@+id/d3"
+                android:title="Ср" />
+            <item
+                android:id="@+id/d4"
+                android:title="Чт" />
+            <item
+                android:id="@+id/d5"
+                android:title="Пт" />
+            <item
+                android:id="@+id/d6"
+                android:title="Сб" />
+            <item
+                android:id="@+id/d7"
+                android:title="Вс" />
+
+
+</menu>

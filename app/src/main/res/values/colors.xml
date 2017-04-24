@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8c94bf</color>
+    <color name="colorPrimaryDark">#e5e9ff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="forWeeks">#3e3939</color>
+</resources>
